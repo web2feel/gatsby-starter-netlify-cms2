@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo:web2feel/gatsby-starter-netlify-cms2
+  repo: web2feel/gatsby-starter-netlify-cms2
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
